@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on programming, application building
 - 📫 How to reach me @prasad3uk on x.com or via linkedin https://www.linkedin.com/in/planetprasad/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can sing in Hindi and Telugu languages
+- ⚡ Fun fact: I have done programming in COBOL, FORTRON, C, Visual Basic.
 
 <!---
 prasad3uk/prasad3uk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
