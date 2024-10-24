@@ -4,8 +4,8 @@
 - 👀 I’m an experienced Project Management Officer and interested in building my Tech skills
 - 🌱 I’m currently learning **_Python via HyperionDev_**
 - 💞️ I’m looking to collaborate on programming, application building
-- 📫 How to reach me @prasad3uk on x.com or via linkedin **https://www.linkedin.com/in/planetprasad/**
-- 😄 Pronouns: He/Him
+- 📫 Reach me @prasad3uk on x.com or via linkedin **https://www.linkedin.com/in/planetprasad/**
+- 😄 My pronouns: He/Him
 - ⚡ Fun fact: **_I have done programming in COBOL, FORTRON, C, Visual Basic._**
 
 <picture>
